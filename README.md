@@ -1,6 +1,6 @@
 # WebEmployeeLog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7. You can see this page in github pages.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7. You can see this page in git-hub pages.
 
 ## Development server
 
